@@ -1,0 +1,14 @@
+# Private data: other people's messages and names
+inbox-digests/
+profile.md
+
+# Local config (absolute paths, local permissions)
+.mcp.json
+.claude/
+
+# Personal files
+*.jpg
+*.jpeg
+*.png
+*.heic
+.DS_Store
